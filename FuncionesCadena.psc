@@ -23,7 +23,9 @@ Algoritmo FuncionesCadena
 	
 	Escribir "La cadena convertida a numero queda:" convertirANumero("10")
 	
-	Escribir "El numero convertido a cadena queda:" convertirATexto(20)	
+	Escribir "El numero convertido a cadena queda:" convertirATexto(20)
+	
+	escribir "El perro come"
 	
 
 FinAlgoritmo
